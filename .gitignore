@@ -11,9 +11,7 @@ data/input/*.mp4
 data/output/*
 !data/output/.gitkeep
 
-.mp4
-
-main.py
+*.mp4
 
 .DS_Store
 Thumbs.db
